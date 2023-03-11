@@ -15,8 +15,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
+  <a href="https://github.com/Elbarto2m/Dreaded-md/fork">
+    <img src="https://img.shields.io/github/forks/Elbarto2m/Dreaded-md?label=Fork&style=social">
     
     
   <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
