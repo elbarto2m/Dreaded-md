@@ -23,7 +23,7 @@ module.exports = {
      if (`${balance.bank}`           <= 1000){
         role = 'broke😭'
       } else if (`${balance.bank}`   <= 10000){
-            role = 'Poor😢'
+            role = 'Poor human😢'
         } else if (`${balance.bank}` <= 50000){
             role = 'Average💸'
         } else if (`${balance.bank}` <= 1000000){
@@ -49,7 +49,7 @@ module.exports = {
           let buttonMessage = {
             image: fs.readFileSync("./Assets/Img/card2.png"), 
             caption: `\n🏦 *${pushname}'s Bank*:\n\n🪙 Balance: ${balance.bank}/${balance.bankCapacity}\n\n\n*Wealth: ${role}*\n`,
-            footer: `*${botName}*`,
+            footer: `Dreaded`,
             buttons: buttons,
             type: 4
           };
