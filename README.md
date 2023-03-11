@@ -114,7 +114,7 @@ https://youtu.be/R-_DU73UH8Q
 </h4>
 
 <p align="center" >
-<a href="https://chat.whatsapp.com/D4EsvpDVGJT8WbxJVlSwWn"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+<a href="https://chat.whatsapp.com/LX8hIhV1xNQESwr5n2wUK2"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
 <br>
@@ -126,7 +126,7 @@ https://youtu.be/R-_DU73UH8Q
 </p>  
 <br>
 
-<h2 align="center">⚡️ Atlas MD Platform Compatibility ⚡️
+<h2 align="center">⚡️ Dreaded Platform Compatibility ⚡️
 </h2>
 
 - Atlas offers highest platform compatibility.
