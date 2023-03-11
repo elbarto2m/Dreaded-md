@@ -62,7 +62,7 @@ module.exports = {
           let buttonMessage = {
             image: fs.readFileSync("./Assets/Img/card.png"), 
             caption: `*📠 Transaction successful of ${word} 💷*`,
-            footer: `*${botName}*`,
+            footer: `*Dreaded*`,
             buttons: buttons,
             type: 4
           };
