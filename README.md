@@ -19,13 +19,13 @@
     <img src="https://img.shields.io/github/forks/Elbarto2m/Dreaded-md?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
+  <a href="https://github.com/Elbarto2m/Dreaded-md/stargazers">
+    <img src="https://img.shields.io/github/stars/Elbarto2m/Dreaded-md?style=social">
   </a>
 
 <br>
 
-<a href="https://github.com/FantoX001/Atlas-MD">
+<a href="https://github.com/Elbarto2m/Dreaded-md">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
