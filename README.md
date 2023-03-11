@@ -1,13 +1,13 @@
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD">
+<a href="https://telegra.ph/file/ec6014e2f6e3ced2b4f6d.jpg">
     <img src="https://telegra.ph/file/ec6014e2f6e3ced2b4f6d.jpg">
   </a>
 
-<h1 align="center"> Atlas MD
+<h1 align="center"> Dreaded-md
 </h1>
 
 <p align="center"> 
-<b>Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+<b>Konnichiwa Senpai, I am "Dreaded" a public WhatsApp bot made by <a href="https://github.com/Elbarto2m">Elbarto</a> and his team "Dreaded" to do everything that everyoneone would like  with highest <b>Features</b> and <b>No errors</b> and <b>Compatibility</b> built with Baileys Multi Device.
 
 <h3 align="center"> Dreaded - Dreaded is tomorrow
 </h4>
