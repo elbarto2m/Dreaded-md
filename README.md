@@ -26,7 +26,7 @@
 <br>
 
 <a href="https://github.com/Elbarto2m/Dreaded-md">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Elbarto2m/Dreaded-md.visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
   
@@ -36,7 +36,7 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/FantoX001/Atlas-MD">
+    <a href="https://repl.it/github/Elbarto2m/Dreaded-md">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
