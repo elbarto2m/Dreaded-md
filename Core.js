@@ -491,7 +491,7 @@ module.exports = async (Miku, m, commands, chatUpdate, store) => {
       ];
       let buttonmess = {
         text: `*Command Info*\n\n${data.join("\n")}`,
-        footer: `*${botName}*`,
+        footer: `Dreaded`,
         buttons: buttonss,
         headerType: 1,
       };
