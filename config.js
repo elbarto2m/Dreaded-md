@@ -10,17 +10,15 @@
 /      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
 /                                                                                   / 
 /-----------------------------------------------------------------------------------/
-/ Author and Main Developer: FantoX                                                 /
-/ Github: https://github.com/FantoX001/Atlas-MD                                     /
-/ Powered By: Team ATLAS                                                            /
+/ Author and Main Developer: Elbarto                                               /
+/ Github: https://github.com/Elbarto2m/Dreaded-md                                     /
+/ Powered By: Team DREADED                                                        /
 /-----------------------------------------------------------------------------------/
-/             Meet Team ATLAS who holds all rights to this repository:              /
+/             Meet Team DREADED who holds all rights to this repository:              /
 /                                                                                   /
-/ 1. Pratyush - https://github.com/pratyush4932                                     /
-/ 2. Ahmii - https://github.com/Ahmii-kun                                           /               
-/ 3. Kai - https://github.com/Kai0071                                               /                    
-/ 4. Devime - https://github.com/Devime69                                           /
-/ 5. Jay JayOps - https://github.com/jayjay-ops                                     /
+/ 1. ITADORI YUJI- https://github.com/HIROITADORI72                                     /
+/ 2. Mokaya fortunatus - https://github.com/                                          /               
+/                                     
 /                                                                                   /
 / ----------------------------------------------------------------------------------/
 /                                                                                   /
@@ -32,7 +30,7 @@
 require("dotenv").config();
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "918101187835";   // You can Change this number //
+  gg = "2349159807687";   // You can Change this number //
 }
 
 // -------------------------------------------------------------- //
@@ -44,8 +42,8 @@ global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey =
   process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
-global.packname = process.env.PACKNAME || `Atlas MD`;
-global.author = process.env.AUTHOR || "by: Team Atlas";
+global.packname = process.env.PACKNAME || `Atlas MD/Elbarto`;
+global.author = process.env.AUTHOR || "by: Team DREADED";
 global.port = process.env.PORT || "8000";
 
 module.exports = {
