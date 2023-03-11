@@ -166,22 +166,22 @@ https://youtu.be/R-_DU73UH8Q
 <br>
 
 
-<h2 align="center">〽️ Why Should You Use Atlas as your Base 〽️
+<h2 align="center">〽️ Why Should You Use Dreaded as your Base 〽️
 </h2>
 
 <br>
 
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
+- Dreaded is a `fully open source` bot which means `no copyright`.
+- Dreaded is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
+- Dreaded is a `multi database bot` which means you can use 3 different databases at the same time.
+- Dreaded is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
+- Dreaded has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
+- Dreaded has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
+- Dreaded has 300+ commands.
+- Dreaded doesn't store your `Session File` locally which means it's `safe` and `secure`.
+- Dreaded has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
+- Dreaded has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
+- Dreaded is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
 - Atlas comes with [MIT](https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 <br>
@@ -300,7 +300,7 @@ Note: If you don't pre-install these plugins before CMD / VS code Installation b
 <h2 align="center">🧣 Contributors 🧣
 </h2>
 
-- Check [Project Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors)
+- Check [Project Contributors](https://github.com/Elbarto2m/Dreaded-md/graphs/contributors)
 - Feel free to contribute in this project. I will merge your respected contribution after reviewing it.
 
 
@@ -329,10 +329,10 @@ Note: If you don't pre-install these plugins before CMD / VS code Installation b
 
 
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center"> Meet Dreaded team 🔰
 </h2>
 
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
+[![Elbarto](https://github.com/Elbarto2m.png)](https://github.com/Elbarto2m)  | [![Itadori yuji](https://github.com/.png)](https://github.com/) | [![Mokaya fortunatus](https://github.com/.png)](https://github.com/) 
 ----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
+[Elbarto](https://github.com/Elbarto)  | [Itadori yuji](https://github.com/) | [Mokaya fortunatus](https://github.com/) 
 Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking
