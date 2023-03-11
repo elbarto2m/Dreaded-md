@@ -43,7 +43,7 @@ module.exports = {
           let buttonMessage = {
             image: fs.readFileSync("./Assets/Img/card.png"), 
             caption: `\n⛩️ Sender: ${m.pushName}\n\n🍀Successfully Deposited 💴 ${deposit.amount} to your bank.\n`,
-            footer: `*${botName}*`,
+            footer: `Dreaded`,
             buttons: buttons,
             type: 4
           };
