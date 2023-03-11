@@ -57,7 +57,7 @@ const ty = eco.connect(config.mongodb);
           let buttonMessage = {
             image: fs.readFileSync("./Assets/Img/card.png"), 
             caption: `*📈 You won 💴 ${twice}*`,
-            footer: `*${botName}*`,
+            footer: `Dreaded`,
             buttons: buttons,
             type: 4
           };
@@ -81,7 +81,7 @@ const ty = eco.connect(config.mongodb);
           ];
           let buttonMessage = {
             text: `*📉 You lost 💴 ${texts[0]}*`,
-            footer: `*${botName}*`,
+            footer: `Dreaded`,
             buttons: buttons,
             type: 4
           };
